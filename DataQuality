@@ -1,0 +1,13 @@
+Documentation of data-quality issues found and how these can be solved:
+Teams must report 3 to 5 data-quality issues about the variables they have identified and analyzed. 
+
+Water: It’s confusing the different responses that water supply variables have, instead of having 6 different answers you can 
+declare just 3 variables that mention if the hospital has water, is using their reserves or it doesn’t have water.
+
+Electricity: It’s not clear if the Power Generators need to be replaced of can be fixed in order to solve the hospital problem. 
+It should have responses like i.e: Generator need repairment, Generator must be replaced, Generator is working well. 
+
+Scarcity: In order to have a more accurate “Scarcity” metric the response classes should be in number of days in a week that a 
+hospital is lacking a specific supply. i.e, instead of saying that a hospital has a lack of “Atropine” from 3 to 5 days it’s 
+easier and more effective to say the real number of days that the hospital had a shortage of atropine, 
+like 5 days of the week, or just 5. 
